@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokem</string>
+    <string name="menu_titulo">jugar</string>
+
+
+    <string name="nombre_string">jugar</string>
+    <string name="title_activity_jugar">jugar</string>
+
+
+</resources>
